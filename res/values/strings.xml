@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OrderApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_create_order">CreateOrderActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_show_order">ShowOrderActivity</string>
+    <string name="btnCreate">Create Order</string>
+    <string name="btnSelect">Select Order</string>
+    <string name="OrderName">Order Name: </string>
+    <string name="Amount">Amount</string>
+    <string name="Save">Save</string>
+    <string name="onCreate">onCreate</string>
+    <string name="onSelect">onSelect</string> 
+</resources>
